@@ -1,0 +1,4 @@
+[Fri Jul 18 18:19:26.211626 2025] [fcgid:warn] [pid 19560:tid 1360] [client ::1:54227] mod_fcgid: read timeout from pipe
+[Fri Jul 18 18:19:26.213641 2025] [core:error] [pid 19560:tid 1360] [client ::1:54227] End of script output before headers: index.php
+[Fri Jul 18 18:19:45.948649 2025] [fcgid:warn] [pid 19560:tid 1364] (OS 109)The pipe has been ended.  : [client ::1:54250] mod_fcgid: get overlap result error
+[Fri Jul 18 18:19:45.952730 2025] [core:error] [pid 19560:tid 1364] [client ::1:54250] End of script output before headers: wp-cron.php
